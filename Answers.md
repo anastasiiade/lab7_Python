@@ -11,9 +11,7 @@ def calculate_grade(scores):
     else:
         return average, "Неудовлетворительно"
 ```
-
-====================================
-
+==================================
 **Решение:**
 ```python
 import random
